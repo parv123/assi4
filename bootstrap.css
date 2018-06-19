@@ -1,0 +1,55 @@
+#p2
+{   
+	font-size: 45px;
+	font-weight: bold;
+	text-align: justify;
+	font-family:"Times New Roman", Times, serif;
+	color:purple ;
+    margin-top:57px;
+    margin-bottom: 80px
+    margin-right: 0px;
+    margin-left: 45px;
+    padding-right: 0px;
+}
+
+#ui1
+{   
+	font-size: 34px;
+	font-weight: bold;
+	text-align: justify;
+	font-family: "Times New Roman", Times, serif;
+	color:black ;
+    margin-top:-15px;
+    margin-bottom: 80px
+    margin-right: 0px;
+    margin-left: 11px;
+    padding-right: 0px;
+}
+#p4
+{   
+	font-size: 19px;
+	font-weight: bold;
+	text-align: justify;
+	font-family:"Times New Roman", Times, serif;
+	color:red ;
+    margin-top:-5px;
+    margin-bottom: 80px
+    margin-right: 0px;
+    margin-left: 45px;
+    padding-right: 0px;
+}
+
+
+#p6
+{   
+	font-size: 45px;
+	font-weight: bold;
+	text-align: justify;
+	font-family:"Times New Roman", Times, serif;
+	color: #5298CC ;
+    margin-top:-5px;
+    margin-bottom: 80px
+    margin-right: 0px;
+    margin-left: -802px;
+    padding-right: 0px;
+}
